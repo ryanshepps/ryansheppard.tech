@@ -1,2 +1,9 @@
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
+  
 
 theme: jekyll-theme-minimal-ryan
