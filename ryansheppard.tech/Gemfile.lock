@@ -34,7 +34,7 @@ GEM
     jekyll-regex-replace (1.1.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
-    jekyll-theme-minimal-ryan (0.1.2)
+    jekyll-theme-minimal-ryan (0.2.0)
       jekyll (~> 4.3)
       jekyll-regex-replace (~> 1.1.0)
     jekyll-watch (2.2.1)
