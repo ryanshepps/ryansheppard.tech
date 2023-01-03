@@ -34,7 +34,7 @@ GEM
     jekyll-regex-replace (1.1.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
-    jekyll-theme-minimal-ryan (0.2.1)
+    jekyll-theme-minimal-ryan (0.3.0)
       jekyll (~> 4.3)
       jekyll-regex-replace (~> 1.1.0)
     jekyll-watch (2.2.1)
@@ -63,7 +63,7 @@ GEM
       rake (>= 10.0.0)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
-    unicode-display_width (2.3.0)
+    unicode-display_width (2.4.0)
     webrick (1.7.0)
 
 PLATFORMS
