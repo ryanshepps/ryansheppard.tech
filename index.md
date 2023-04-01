@@ -2,4 +2,4 @@
 layout: home
 ---
 
-The human compatible framework helping to build great teams everywhere.
+Simplifying tech, improving lives – software developer passionate about optimizing development processes and enhancing the human experience.
