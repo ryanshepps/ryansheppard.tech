@@ -22,7 +22,7 @@ Across both terms, I participated in alternative opportunities. I started workin
 
 # Goals
 
-**Book 6 coffee chats with people from other teams ✅**
+### Book 6 coffee chats with people from other teams ✅
 
 I met as many people as I could at the bank so that I could better understanding engineering at a larger scale. Since I was a coop, I had the perfect excuse for messaging directors and asking them to chat over coffee. Here are some of the interesting people I met:
 
@@ -31,23 +31,23 @@ I met as many people as I could at the bank so that I could better understanding
 3. **Paul Chester (Director OpenShift Infrastructure)**. Paul has been with the bank for over 20 years. He told cool stories of moving application code from the mainframe into the cloud. I asked questions on how he runs his team, and he gave interesting answers like establishing processes so the team runs themselves, and delegating duties.
 4. **Kevin Kwong-Chip (Senior Manager Open Banking Development)**. I asked Kevin questions related to team conflict. He gave tools and tips for dealing with personal frustrations and we had an interesting conversation about different types of workers.270168701
 
-**Become familiar with at least one popular technology used at RBC ✅**
+### Become familiar with at least one popular technology used at RBC ✅
 
 I made this goal in my first term when I wasn’t excited about the technology I would be using. So, I wanted to dedicate some time to at least one marketable technical skill. I’m happy to say that I’ve come out of RBC with many technical skills. RedHat OpenShift Container Platform 4, Jenkins, Spring Boot 3, and Java 17 are just some of the technologies I am now familiar with. I am very pleased that I was able to work with so many different technologies used across the industry during my work term at RBC.
 
-**Make contributions to at least one inner source repository ✅**
+### Make contributions to at least one inner source repository ✅
 
 RBC’s “inner source” is an open source ecosystem for RBC employees. It contains software like Angular component libraries, Linux Docker containers preinstalled with SSL certificates, and Spring OIDC components.
 
 I wanted to make a lasting impact at RBC, and this was a way for me to do that. I was able to add a add a missing link to some documentation, but I didn’t dedicate nearly enough time on this goal to make a lasting impact. Luckily, I believe I contributed enough to my team to make the impact this goal was originally trying to make. Nonetheless, I did make a contribution to an inner source repository, completing my goal.
 
-**Lead an internal project ✅**
+### Lead an internal project ✅
 
 At my second coffee chat, Jim Miller mentioned the best way to find confidence at work is to find areas to apply leadership. Solidifying your position as a leader in some aspect makes you feel useful and established which helps with confidence.
 
 I found an opportunity to lead two new developers on a project to raise their technical knowledge and to establish some foundations that they wouldn’t get to learn in their day-to-day. Overall, we faced man different productivity and motivation challenges, but I’m happy to say that we came out of the project with something instead of nothing. I think both developers were appreciative of the project despite not having come as far as we wanted to.
 
-**Migrate a Spring Boot 2 application to Spring Boot 3 ✅**
+### Migrate a Spring Boot 2 application to Spring Boot 3 ✅
 
 I knew this goal was going to be my largest while at the bank, so I set this goal so that I would focus on completing it within my term. I’m happy to say I am the first to upgrade one of my team’s services from SB 2 to SB 3. This is important because it creates a guide for all other SB upgrades within my team.
 
