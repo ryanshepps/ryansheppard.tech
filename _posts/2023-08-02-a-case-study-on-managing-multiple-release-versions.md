@@ -3,7 +3,7 @@ title: Managing Multiple Release Versions
 image: /assets/images/ankush-minda-multiple-balloons-released.jpg
 ---
 
-Recently, I made a mistake while releasing a new version of a component. My team maintains various Spring components whose versions match Spring Boot's release versions. With the relase of Spring Boot 3, I made the change to upgrade our component. A few weeks later, a colleague made an update to the component and messaged me, asking why it was no longer working with their application. Since their application was using Spring Boot 2, they were unaware that the latest version of our component is no longer compatible with their application. I wasn't sure what to do in this situation, which took me down a rabbit hole on how others manage multiple release versions.
+Recently, I made a mistake while releasing a new version of a component. My team maintains various Spring components whose versions match Spring Boot's release versions. With the release of Spring Boot 3, I made the change to upgrade our component. A few weeks later, a colleague needed to make a change to an older version of the component. I wasn't sure what to do in this situation, which took me down a rabbit hole on how others manage multiple release versions.
 
 ### Spring Boot
 
