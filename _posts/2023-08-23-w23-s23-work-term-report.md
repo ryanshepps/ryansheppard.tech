@@ -1,5 +1,5 @@
 ---
-title: W22/S22 Work Term Report
+title: W23/S23 Work Term Report
 image: /assets/images/rbcoopteam.jpg
 ---
 
