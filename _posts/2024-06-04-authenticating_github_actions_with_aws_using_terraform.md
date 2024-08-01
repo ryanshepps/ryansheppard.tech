@@ -67,7 +67,7 @@ data "aws_iam_policy_document" "github_attachment_policy" {
 Take note how we are using the the `aws_caller_identity` and `aws_iam_openid_connect_provider` data sources from earlier.
 
 <aside>
-💡 <code>${var.VARIABLE}</code> is a Terraform variable. Learn how  to set up Terraform variables [here](https://developer.hashicorp.com/terraform/language/values/variables).
+💡 <code>${var.VARIABLE}</code> is a Terraform variable. Learn how  to set up Terraform variables <a href="https://developer.hashicorp.com/terraform/language/values/variables">here</a>.
 </aside>
 
 <aside>
