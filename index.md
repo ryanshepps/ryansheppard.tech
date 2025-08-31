@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Software developer enhancing the experience of clients and co-workers.
+I love solving interesting problems with great people
