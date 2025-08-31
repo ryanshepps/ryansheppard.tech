@@ -1,5 +1,5 @@
 ---
-title: W23/S23 Work Term Report
+title: RBC Coop Work Term Report
 image: /assets/images/rbcoopteam.jpg
 ---
 
