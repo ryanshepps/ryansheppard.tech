@@ -1,5 +1,6 @@
 ---
 title: S21/F21 Work Term Report
+published: false
 ---
 
 “We should remember that good fortune often happens when opportunity meets with preparation.” - [Thomas Edison](https://www.thomasedison.org/edison-quotes). I’m very lucky to be in the position I’m in. But I think there is one consistent action I’ve done to aid my luck: seizing opportunities. Spotting an opportunity, bringing it to fruition and acting on it is something that I’ve gotten really good at. In fact, none of my goals this work term are related to my job tasks. Many of them are the result of seeing an opportunity and acting on it.

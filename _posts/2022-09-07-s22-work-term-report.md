@@ -1,6 +1,7 @@
 ---
 title: S22 Work Term Report
 image: /assets/images/valueconnectteam.jpg
+published: false
 ---
 
 Some things have changed, and some things have remained the same compared to my [last coop work term](https://ryansheppard.tech/documentation/coop_work_reports/valueconnect).
