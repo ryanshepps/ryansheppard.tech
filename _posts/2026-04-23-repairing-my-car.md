@@ -1,6 +1,6 @@
 ---
 title: Repairing my Car
-image: /assets/images/kenrick-mills-MF9Wy1NA55I-unsplash.jpg
+image: /assets/images/jeremy-bishop-QHZn3-0bbEM-unsplash.jpg
 ---
 
 Canadian Tire quoted me $1500 for a vacuum leak on my car. So I fixed my own car this winter. I tore the camshaft valve cover off my 2015 Cruze, added a new channel for positive airflow and hunted down a vacuum leak. First real repair I've done on a car.
