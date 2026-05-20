@@ -90,7 +90,7 @@ PLATFORMS
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.4.1)
-  jekyll-theme-minimal-ryan (= 0.10.1)
+  jekyll-theme-minimal-ryan
 
 BUNDLED WITH
    2.6.9
