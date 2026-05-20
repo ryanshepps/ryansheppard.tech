@@ -4,6 +4,24 @@ defaults:
       path: "_posts"
     values:
       layout: "post"
-  
 
 theme: jekyll-theme-minimal-ryan
+
+plugins:
+  - jekyll-regex-replace
+
+minimal_ryan:
+  title: Ryan Sheppard
+  home:
+    image:
+      src: /assets/images/me.jpg
+  footer:
+    contact:
+      - { title: Email, link: mailto:sheppardryan@rogers.com }
+      - { title: LinkedIn, link: https://www.linkedin.com/in/ryansheppardd/ }
+    social-media:
+      - { title: Twitter, link: https://x.com/sheppsryan }
+      - { title: Instagram, link: https://www.instagram.com/ryannsheppardd/ }
+    other-links:
+      - { title: GitHub, link: https://github.com/ryanshepps }
+      - { title: DevPost, link: https://devpost.com/ryanshepps }
