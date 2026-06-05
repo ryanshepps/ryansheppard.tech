@@ -15,6 +15,9 @@ minimal_ryan:
   home:
     image:
       src: /assets/images/me.jpg
+    links:
+      - { title: LinkedIn, icon: linkedin, link: https://www.linkedin.com/in/ryansheppardd/ }
+      - { title: X, icon: x, link: https://x.com/sheppsryan }
   footer:
     contact:
       - { title: Email, link: mailto:sheppardryan@rogers.com }
