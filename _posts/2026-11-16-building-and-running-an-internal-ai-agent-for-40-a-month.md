@@ -89,7 +89,7 @@ On GitHub, anyone with write access can mention the agent on an issue. We use [J
 
 Pull requests are also reviewed by a separate reviewer agent running DeepSeek V4 Pro in its own Sprite. Since August it has reviewed 55 pull requests and **flagged 110 issues before merge**, 8 of them high-severity. 20 of those issues have a confirmed fix.
 
-Since launching in July, the agent has opened 59 pull requests across three of our repositories, and 48 of them have been merged. 32 of those merged without a person changing the code.
+Most of the agent's pull requests go to our web portal, and much of the rest go to the agent's own repository, so it now does some of its own maintenance. A person approves every merge. Of the 48 merged so far, 32 went in exactly as the agent wrote them. The other 16 needed a fix, a test or a copy change from one of us first, and 10 more were closed without merging.
 
 It also changes who can work on the product. **Anyone who can describe a change in Slack can turn it into a reviewable pull request** or a feature request linked to an issue. A small request no longer waits for a developer to pick it up and hand it to their own coding agent, so developers spend that time reviewing the change instead of making it.
 
